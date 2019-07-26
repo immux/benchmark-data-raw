@@ -1,8 +1,4 @@
-Czech Bank Data
+ImmuxDB Benchmark Data
 ======
 
-Source: [https://sorry.vse.cz/~berka/challenge/pkdd1999/data_berka.zip](https://sorry.vse.cz/~berka/challenge/pkdd1999/data_berka.zip)
-
-Descriptions: [https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions](https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions)
-
-License: Public Domain
+A subset of benchmark data for ImmuxDB.
